@@ -1,0 +1,9 @@
+{
+  "crop_diversity": 0.15,
+  "market_price_stability": 0.15,
+  "insurance_coverage": 0.1,
+  "pmkisan_enrollment": 0.1,
+  "community_trust_score": 0.2,
+  "evidence_confidence_avg": 0.2,
+  "debt_burden": 0.1
+}

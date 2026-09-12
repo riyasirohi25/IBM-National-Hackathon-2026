@@ -1,0 +1,21 @@
+attestation_id,farmer_id,fpo_name,claim,value,unit,status,attested_by
+AT00101,F001,Sita FPO,production_quantity,7.5,tonnes,verified,FPO representative
+AT00201,F002,Nalanda FPO,production_quantity,8.87,tonnes,verified,FPO representative
+AT00301,F003,Sehore FPO,production_quantity,23.81,tonnes,verified,FPO representative
+AT00401,F004,Kheda FPO,production_quantity,12.36,tonnes,verified,FPO representative
+AT00501,F005,Kota FPO,production_quantity,13.65,tonnes,verified,FPO representative
+AT00601,F006,Nashik FPO,production_quantity,7.08,tonnes,verified,FPO representative
+AT00701,F007,Agra FPO,production_quantity,6.39,tonnes,verified,FPO representative
+AT00801,F008,Karnal FPO,production_quantity,29.13,tonnes,verified,FPO representative
+AT00901,F009,Pune FPO,production_quantity,10.26,tonnes,verified,FPO representative
+AT01001,F010,Burdwan FPO,production_quantity,7.8,tonnes,verified,FPO representative
+AT01101,F011,Rajkot FPO,production_quantity,28.86,tonnes,verified,FPO representative
+AT01201,F012,Indore FPO,production_quantity,8.22,tonnes,verified,FPO representative
+AT01301,F013,Cuttack FPO,production_quantity,9.14,tonnes,verified,FPO representative
+AT01401,F014,Patna FPO,production_quantity,4.76,tonnes,verified,FPO representative
+AT01501,F015,Mandi FPO,production_quantity,9.89,tonnes,verified,FPO representative
+AT01601,F016,Raipur FPO,production_quantity,18.33,tonnes,verified,FPO representative
+AT01701,F017,Ludhiana FPO,production_quantity,18.56,tonnes,verified,FPO representative
+AT01801,F018,Nizamabad FPO,production_quantity,9.65,tonnes,verified,FPO representative
+AT01901,F019,Ranchi FPO,production_quantity,8.52,tonnes,verified,FPO representative
+AT02001,F020,Haridwar FPO,production_quantity,15.79,tonnes,verified,FPO representative

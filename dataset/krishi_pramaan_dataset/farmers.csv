@@ -1,0 +1,21 @@
+farmer_id,farmer_name,age,gender,state,district,fpo_name,land_area_acres,primary_crop,season,seasonal_income,seasonal_expenses,existing_debt_amount,crop_diversity,market_price_stability,insurance_claim_ratio,pmkisan_enrollment,community_trust_score,irrigation_available
+F001,Ramesh Kumar,46,Male,Uttar Pradesh,Sitapur,Sita FPO,4.2,Wheat,Rabi,310000,145000,45000,0.7,0.78,0.1,1,0.88,1
+F002,Sunita Devi,39,Female,Bihar,Nalanda,Nalanda FPO,2.8,Rice,Kharif,205000,112000,30000,0.55,0.62,0.2,1,0.82,0
+F003,Mohan Lal,52,Male,Madhya Pradesh,Sehore,Sehore FPO,6.5,Soybean,Kharif,490000,245000,90000,0.82,0.74,0.15,1,0.91,1
+F004,Asha Patel,34,Female,Gujarat,Kheda,Kheda FPO,3.1,Cotton,Kharif,275000,160000,25000,0.65,0.69,0.08,1,0.86,1
+F005,Vijay Singh,44,Male,Rajasthan,Kota,Kota FPO,5.0,Mustard,Rabi,360000,205000,70000,0.6,0.71,0.3,1,0.76,0
+F006,Meena Bai,48,Female,Maharashtra,Nashik,Nashik FPO,2.2,Onion,Rabi,235000,150000,40000,0.72,0.58,0.25,1,0.8,1
+F007,Arjun Yadav,29,Male,Uttar Pradesh,Agra,Agra FPO,1.8,Potato,Rabi,180000,118000,20000,0.48,0.55,0.4,1,0.74,1
+F008,Kavita Sharma,41,Female,Haryana,Karnal,Karnal FPO,7.2,Wheat,Rabi,560000,265000,85000,0.88,0.84,0.05,1,0.94,1
+F009,Suresh Pawar,57,Male,Maharashtra,Pune,Pune FPO,3.7,Sugarcane,Annual,420000,275000,140000,0.4,0.63,0.35,0,0.68,1
+F010,Farida Begum,36,Female,West Bengal,Burdwan,Burdwan FPO,2.5,Rice,Kharif,215000,125000,35000,0.58,0.66,0.18,1,0.84,0
+F011,Devendra Mehta,50,Male,Gujarat,Rajkot,Rajkot FPO,8.0,Groundnut,Kharif,650000,340000,120000,0.76,0.79,0.12,1,0.9,1
+F012,Pooja Verma,31,Female,Madhya Pradesh,Indore,Indore FPO,2.0,Soybean,Kharif,170000,108000,15000,0.52,0.61,0.22,1,0.79,1
+F013,Hari Prasad,60,Male,Odisha,Cuttack,Cuttack FPO,3.4,Rice,Kharif,255000,165000,60000,0.5,0.59,0.45,0,0.7,0
+F014,Nisha Kumari,27,Female,Bihar,Patna,Patna FPO,1.5,Vegetables,Rabi,155000,98000,10000,0.8,0.57,0.1,1,0.83,1
+F015,Rajesh Thakur,45,Male,Himachal Pradesh,Mandi,Mandi FPO,2.7,Apple,Annual,390000,210000,55000,0.68,0.73,0.2,1,0.87,1
+F016,Laxmi Narayan,53,Male,Chhattisgarh,Raipur,Raipur FPO,4.6,Rice,Kharif,330000,190000,80000,0.45,0.6,0.38,1,0.72,0
+F017,Geeta Rani,43,Female,Punjab,Ludhiana,Ludhiana FPO,6.8,Wheat,Rabi,585000,290000,65000,0.86,0.88,0.05,1,0.95,1
+F018,Imran Khan,38,Male,Telangana,Nizamabad,Nizamabad FPO,3.0,Turmeric,Kharif,310000,185000,50000,0.73,0.67,0.17,1,0.81,1
+F019,Babulal Sahu,49,Male,Jharkhand,Ranchi,Ranchi FPO,2.4,Maize,Kharif,190000,130000,45000,0.43,0.54,0.5,0,0.65,0
+F020,Anita Joshi,35,Female,Uttarakhand,Haridwar,Haridwar FPO,3.9,Basmati Rice,Kharif,365000,200000,30000,0.77,0.76,0.12,1,0.89,1
